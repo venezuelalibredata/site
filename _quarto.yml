@@ -22,6 +22,11 @@ website:
         text: Resultados por Estado
       - href: resulmunicipio.qmd
         text: Resultados por Municipio
+      - href: downloads.qmd
+        text: Zona Descarga
+      - href: squema.qmd
+        text: Esquema de Datos
+      - href: about.qmd
       - about.qmd
 
 format:
@@ -30,6 +35,7 @@ format:
     css: styles.css
     # toc: true
     dark: darkly
+    page-layout: full
 
 editor: visual
 
