@@ -18,7 +18,7 @@ website:
     left:
       - href: index.qmd
         text: VLD
-      - href: resestado.qmd
+      - href: resulestado.qmd
         text: Resultados por Estado
       - href: resulmunicipio.qmd
         text: Resultados por Municipio
