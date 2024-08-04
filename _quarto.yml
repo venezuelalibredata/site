@@ -36,6 +36,8 @@ format:
     # toc: true
     dark: darkly
     page-layout: full
+    include-in-header: gtm_code_head.html
+    include-before-body: gtm_code_body.html
 
 editor: visual
 
