@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Venezuela Libre Data"
+  page-footer:
+    background: '#2596be'
+    left: "VLD, 2024"
+    right:
+      - icon: envelope
+        text: "contacto {{< fa envelope >}} : venezuelalibredata@protonmail.com"
+        href: "mailto:venezuelalibredata@protonmail.com"
+  navbar:
+    logo: img/ven.png
+    style: "docked"
+    fontsize: 30px
+    left:
+      - href: index.qmd
+        text: VLD
+      - href: resestado.qmd
+        text: Resultados por Estado
+      - href: resulmunicipio.qmd
+        text: Resultados por Municipio
+      - about.qmd
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    # toc: true
+    dark: darkly
+
+editor: visual
+
