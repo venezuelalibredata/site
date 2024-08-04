@@ -24,10 +24,9 @@ website:
         text: Resultados por Municipio
       - href: downloads.qmd
         text: Zona Descarga
-      - href: squema.qmd
+      - href: schema.qmd
         text: Esquema de Datos
       - href: about.qmd
-      - about.qmd
 
 format:
   html:
