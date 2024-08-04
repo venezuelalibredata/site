@@ -17,7 +17,6 @@ website:
     fontsize: 30px
     left:
       - href: index.qmd
-        text: VLD
       - href: resulestado.qmd
         text: Resultados por Estado
       - href: resulmunicipio.qmd
